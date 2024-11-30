@@ -51,5 +51,3 @@ Buenas tardes, para iniciar el programa, tendra que:
 
 Sin mas que añadir, les mando un saludo cordial de mi parte.
 Ian Jeremi Pérez Charles.
-2.- Presionar alguna opcion del programa segun la necesidad que se requiere en ese momento.
-3.- 
